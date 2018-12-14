@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    background-image : url("/assets/clear-image.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+
+  .hero{
+    background-position:center center;
+    background-attachment:fixed;
+    text-align:center; 
+    position:relative;
+    width: 100%;
+    height: 720px;
+  }
+
+
+  .image{
+    padding: 10px;
+    
+    height: 695px;
+    width: 50%;
+    border-radius: 10px;
+    display: inline-block;
+   
+    
+  }
+
+  .content{
+    padding-top: 100px;
+    display: inline-block;
+    width: 50%;
+
+  }
+
+  h1{
+    margin:0px;
+    font-family: 'Roboto Slab', serif;
+    font-weight:400;
+    font-size:32px;
+    padding:0px 20px;
+  }
+
+  p{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size:18px;
+    padding:0px 20px;
+  }  
+
+
+.bg-white{
+    background: rgba(255,255,255,.5)
+}
+
+.bg-grey{
+    background: rgba(139, 137, 137, 0.5)
+}
+
